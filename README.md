@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎀 I'm thrilled to be followed by [Yu Zhang](https://github.com/yzhangcs) since Sept. 5th, 2022. Thx mate ~
+🎀 Thanks for your visiting. I'm Tong Zhu, and I'm interested in Information Extraction. You may want to checkout my [homepage](https://spico197.github.io/) for more details ~
