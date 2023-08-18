@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 🎀 Thanks for your visiting. I'm Tong Zhu, and I'm interested in Information Extraction. You may want to checkout my [homepage](https://spico197.github.io/) for more details ~
+
+Other repositories from me:
+
+- [NYT-H]: 📜 Codes and Data for [Towards Accurate and Consistent Evaluation: A Dataset for Distantly-Supervised Relation Extraction](https://aclanthology.org/2020.coling-main.566/) .
+- [Humback]: 🐋 An unofficial implementation of [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259) .
