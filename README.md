@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 Other repositories from me:
 
-- [NYT-H]: 📜 Codes and Data for [Towards Accurate and Consistent Evaluation: A Dataset for Distantly-Supervised Relation Extraction](https://aclanthology.org/2020.coling-main.566/) .
-- [Humback]: 🐋 An unofficial implementation of [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259) .
+- [NYT-H](https://github.com/Spico197/NYT-H): 📜 Codes and Data for [Towards Accurate and Consistent Evaluation: A Dataset for Distantly-Supervised Relation Extraction](https://aclanthology.org/2020.coling-main.566/) .
+- [Humback](https://github.com/Spico197/Humback): 🐋 An unofficial implementation of [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259) .
