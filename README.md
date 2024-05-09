@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 🎀 Thanks for your visiting. I'm Tong Zhu, and I'm interested in Information Extraction. You may want to checkout my [homepage](https://spico197.github.io/) for more details ~
 
+🫂 If you are a PhD/Master student, and you are in a bad mood or need some good luck, you may want to have a look at this: [https://spico197.github.io/accept/](https://spico197.github.io/accept/) .
+
 Other repositories from me:
 
 - [NYT-H](https://github.com/Spico197/NYT-H): 📜 Codes and Data for [Towards Accurate and Consistent Evaluation: A Dataset for Distantly-Supervised Relation Extraction](https://aclanthology.org/2020.coling-main.566/) .
-- [Humback](https://github.com/Spico197/Humback): 🐋 An unofficial implementation of [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259) .
+- [Humback](https://github.com/Spico197/Humback): 🐋 An unofficial implementation of [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259) . (OK, I know there's a typo....)
 - [paper-hero](https://github.com/Spico197/paper-hero): 💪 A toolkit to help search for papers from aclanthology, arXiv and dblp.
